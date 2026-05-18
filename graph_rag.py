@@ -1,3 +1,6 @@
+import os
+from dotenv import load_dotenv
+load_dotenv()
 import networkx as nx
 from langchain_google_genai import ChatGoogleGenerativeAI
 
