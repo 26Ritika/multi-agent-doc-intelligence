@@ -2,6 +2,7 @@ fastapi
 uvicorn
 python-multipart
 chromadb
+PyPDF2
 sentence-transformers
 langchain
 langchain-google-genai
