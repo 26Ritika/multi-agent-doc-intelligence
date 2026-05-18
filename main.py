@@ -1,3 +1,6 @@
+import os
+from dotenv import load_dotenv
+load_dotenv()
 import time
 from doc_agents import run_agents
 from metrics import record_document,get_metrics
