@@ -11,6 +11,9 @@ backend/.env
 frontend/node_modules/
 frontend/build/
 
+#frontend
+frontend/venv/
+
 # VS Code
 .vscode/
 
